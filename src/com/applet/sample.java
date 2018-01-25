@@ -2,6 +2,7 @@ package com.applet;
 
 public class sample {
 	public static void main(String[] args){
+		// entering comments for try block
 		System.out.println("out of try block");
 		try{
 			System.out.println("Inside try block");
